@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width:1900px;
+}
+
+header{
+    margin-bottom: 50px;
+    text-align: center;
+}
+h1 h3 {
+    text-align: center;
+}
+
+p{
+    text-align: left;
+}
+
+.ppi-title{
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+img{
+    height:300px;
+    width:500px;
+    margin-right:0px;
+}
+
+.profile-pic-intro{
+    float:left;
+    width: 50%;
+}
+
+.profile-pic-intro2{
+    float:left;
+    width: 50%;
+}
+
